@@ -177,7 +177,7 @@ const getGitPathAndGitEnv = (envTemp?: TObjectValue) => {
     const win32GitSubfolder = getWin32GitSubfolder()
     gitPath = path.join(gitFolder, 'cmd', 'git.exe')
     env.GIT_EXEC_PATH = path.join(gitFolder, win32GitSubfolder, 'libexec', 'git-core')
-    env.PATH = `${gitFolder}\\${win32GitSubfolder}\\bin;${gitFolder}\\${win32GitSubfolder}\\usr\\bin;${env.PATH ?? ''}`
+    env.PATH = `${gitFolder}\\${win32GitSubfolder}\\bin;${gitFolder}\\usr\\bin;${env.PATH ?? ''}`
   } else {
     // 其他平台下，git路径为gitFolder\bin\git
     gitPath = path.join(gitFolder, 'bin', 'git')
