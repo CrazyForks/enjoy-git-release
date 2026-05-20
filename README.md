@@ -650,59 +650,6 @@ When opened from a file context menu, the current file is selected by default; y
 
 ---
 
-## Screenshot Index
-
-All UI screenshots are in [`docs/images/`](docs/images/):
-
-| Filename | Description |
-|----------|-------------|
-| `main-interface-dark.png` | Main interface (dark) |
-| `main-interface-light.png` | Main interface (light) |
-| `staged-files-with-diff.png` | Staging area with diff |
-| `changed-files-list-view.png` | Changed files list view |
-| `changed-files-tree-view.png` | Changed files file tree view |
-| `unstaged-file-context-menu.png` | Unstaged file context menu |
-| `diff-side-by-side.png` | Side-by-side diff |
-| `diff-side-by-side-options.png` | Side-by-side diff (full) |
-| `diff-expand-up.png` | Expand context (up) |
-| `diff-expand-down.png` | Expand context (down) |
-| `diff-line-staging-hunk.png` | Line-level staging (context menu) |
-| `commit-history-overview.png` | Commit history overview |
-| `commit-context-menu.png` | Commit context menu |
-| `commit-multi-select.png` | Multi-select commit actions |
-| `cherry-pick-dialog.png` | Cherry-pick dialog |
-| `commit-detail-view.png` | Commit details |
-| `commit-file-tree.png` | Commit file tree |
-| `history-file-context-menu.png` | History file context menu |
-| `blame-view.png` | Blame view |
-| `branch-context-menu-en.png` | Branch context menu |
-| `create-branch-dialog.png` | Create branch dialog |
-| `push-dialog.png` | Push dialog |
-| `remote-context-menu-en.png` | Remote context menu |
-| `add-remote-dialog.png` | Add remote dialog |
-| `remote-branch-context-menu.png` | Remote branch menu |
-| `tag-context-menu.png` | Tag menu |
-| `stash-context-menu.png` | Stash menu |
-| `stash-all-dialog.png` | Stash all files |
-| `stash-files-dialog.png` | Stash selected files |
-| `clone-repository.png` | Clone repository |
-| `rebase-conflict-resolution.png` | Conflict resolution interface |
-| `conflict-side-by-side.png` | Side-by-side conflict comparison |
-| `menu-app.png` | Application menu |
-| `menu-file.png` | File menu |
-| `menu-view.png` | View menu (with theme switching) |
-| `menu-repository.png` | Repository menu |
-| `menu-language.png` | Language menu |
-| `menu-help.png` | Help menu |
-| `settings-external-programs.png` | External open programs |
-| `settings-ssh-keys.png` | SSH key management |
-| `settings-ai-commit.png` | AI commit configuration |
-| `settings-add-ai-model.png` | Add AI model |
-
-More official screenshots are on the [website](https://enjoygit.com).
-
----
-
 ## FAQ
 
 Answers to common questions about Enjoy Git. More on the [website](https://enjoygit.com).

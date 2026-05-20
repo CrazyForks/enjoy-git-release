@@ -652,59 +652,6 @@
 
 ---
 
-## 截图索引
-
-所有界面截图存放在 [`docs/images/`](docs/images/) 目录：
-
-| 文件名 | 说明 |
-|--------|------|
-| `main-interface-dark.png` | 主界面（深色） |
-| `main-interface-light.png` | 主界面（浅色） |
-| `staged-files-with-diff.png` | 暂存区与 diff |
-| `changed-files-list-view.png` | 变更文件列表视图 |
-| `changed-files-tree-view.png` | 变更文件树视图 |
-| `unstaged-file-context-menu.png` | 未暂存文件右键 |
-| `diff-side-by-side.png` | 双栏 diff |
-| `diff-side-by-side-options.png` | 双栏 diff（完整） |
-| `diff-expand-up.png` | 向上展开上下文 |
-| `diff-expand-down.png` | 向下展开上下文 |
-| `diff-line-staging-hunk.png` | 行级暂存（选中行右键菜单） |
-| `commit-history-overview.png` | 提交历史总览 |
-| `commit-context-menu.png` | 提交右键菜单 |
-| `commit-multi-select.png` | 多选提交操作 |
-| `cherry-pick-dialog.png` | 遴选提交对话框 |
-| `commit-detail-view.png` | 提交详情 |
-| `commit-file-tree.png` | 提交文件树 |
-| `history-file-context-menu.png` | 历史文件右键菜单 |
-| `blame-view.png` | 按行审阅 |
-| `branch-context-menu-en.png` | 分支右键菜单 |
-| `create-branch-dialog.png` | 创建分支对话框 |
-| `push-dialog.png` | 推送对话框 |
-| `remote-context-menu-en.png` | 远程右键菜单 |
-| `add-remote-dialog.png` | 添加远程对话框 |
-| `remote-branch-context-menu.png` | 远程分支菜单 |
-| `tag-context-menu.png` | 标签菜单 |
-| `stash-context-menu.png` | 贮藏菜单 |
-| `stash-all-dialog.png` | 贮藏全部文件 |
-| `stash-files-dialog.png` | 贮藏部分文件 |
-| `clone-repository.png` | 克隆仓库 |
-| `rebase-conflict-resolution.png` | 冲突解决界面 |
-| `conflict-side-by-side.png` | 并排冲突对比 |
-| `menu-app.png` | 应用菜单 |
-| `menu-file.png` | 文件菜单 |
-| `menu-view.png` | 视图菜单（含主题切换） |
-| `menu-repository.png` | 仓库菜单 |
-| `menu-language.png` | 语言菜单 |
-| `menu-help.png` | 帮助菜单 |
-| `settings-external-programs.png` | 外部打开程序 |
-| `settings-ssh-keys.png` | SSH 密钥管理 |
-| `settings-ai-commit.png` | AI 提交配置 |
-| `settings-add-ai-model.png` | 添加 AI 模型 |
-
-更多官方界面见 [官网](https://enjoygit.com)。
-
----
-
 ## 常见问题
 
 关于 Enjoy Git 的一些常见疑问解答。
